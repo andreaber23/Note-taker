@@ -30,6 +30,11 @@ app.get('/api/notes', (req, res) => {
       res.json(notesData);
 });
 
+// `POST /api/notes` should receive a new note to save on the request body, add it to the `db.json` file, and then return the new note to the client
+
+app.get('/api/notes', (req, res) => {
+    
+});
 
 module.exports = app;
 
