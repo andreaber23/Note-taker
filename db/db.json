@@ -4,53 +4,18 @@
     "text": "Test text"
   },
   {
-    "id": "58b4fea0-bc82-47ff-b504-2297651a2567",
-    "username": "Sarah",
-    "topic": "UI",
-    "tip": "Make your application accessible by adding alt properties "
-  },
-  {
-    "id": "d7eeccf4-54a5-47c1-b0f9-0040946371d5",
-    "title": "homework",
-    "text": "homework"
-  },
-  {
-    "id": "ffa999f2-ac60-4949-9fe8-b3b3b1e26174",
-    "title": "homework3",
-    "text": "homework3"
-  },
-  {
-    "id": "b9d5625b-bee5-4b22-aee6-23622505d6ba",
-    "title": "hi",
-    "text": "hi"
-  },
-  {
-    "id": "8b0ab255-9b66-4fdf-8526-674c0f9c07c2"
-  },
-  {
-    "id": "dc3990b5-f5e1-4b1d-bb43-55ef66b38985"
-  },
-  {
-    "id": "448959fc-1f4f-434a-a9b6-912091140586"
-  },
-  {
-    "id": "8c0b4a96-f3f1-40e0-bb5c-e6fc8cdbff25",
-    "title": "hw",
-    "text": "hw"
-  },
-  {
-    "id": "6d731aa5-6a6d-416a-8dbc-a012606b70fa",
-    "title": "hw2",
-    "text": "hm2"
-  },
-  {
-    "id": "642bc194-eccf-434b-b443-cf520b60632a",
-    "title": "Example Title",
-    "text": "Example Text"
-  },
-  {
     "id": "2023e89c-8248-4542-b397-de870b34183a",
     "title": "notes",
     "text": "this is a note"
+  },
+  {
+    "title": "Last test",
+    "text": "This is a last test",
+    "id": "8ef94164-43c9-4101-b618-b4eff51cd484"
+  },
+  {
+    "title": "This is a new note",
+    "text": "new note",
+    "id": "b9b7d943-9d3c-45d1-a969-67244502cf9a"
   }
 ]
