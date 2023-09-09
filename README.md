@@ -13,7 +13,7 @@ The Note Taker application can be used to write and save notes. It is user frien
 - [Questions](#questions)
 
 ## Installation
-First, clone the repository in your local machine. Once cloned, make sure all the necessary dependencies are installed by running ```npm install``` in the terminal. After installing the dependencies, make sure to be in the root folder to be able to run the application. Type ```node server.js``` and after loading, the application can be opened in the browser (```http://localhost:3001``).
+First, clone the repository in your local machine. Once cloned, make sure all the necessary dependencies are installed by running ```npm install``` in the terminal. After installing the dependencies, make sure to be in the root folder to be able to run the application. Type ```node server.js``` and after loading, the application can be opened in the browser (```http://localhost:3001```).
 
 ## Usage
 User clicks on the Start button to enter a new note. At the top right side, there is a plus sign to add a new note. Once the title and description of the note is completed, user has to click on the save icon int he right top side of the screen. Then, the new note entered will appear on the left side of the screen. If user needs to delete, they can do so by clicking on the trash can. 
